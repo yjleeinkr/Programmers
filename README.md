@@ -1,2 +1,22 @@
-# Programmers
-programmers coding test solving
+<div align="center">
+
+# Programmers Coding Test
+
+<br>
+
+## STUDY LOG
+
+<br>
+
+| 날짜   | 출처         | 유형        | 난이도  | 제목                                                                                       | 풀이                                                                         |
+| ------ | ------------ | ----------- | ------- | ------------------------------------------------------------------------------------------ | ---------------------------------------------------------------------------- |
+| 230426 | 프로그래머스 | 연습문제        | Level.1 | [추억 점수](https://school.programmers.co.kr/learn/courses/30/lessons/176963)                          | [✏️](https://github.com/yjleeinkr/Programmers/tree/main/level1/176963)  |
+
+</div>
+
+### 터미널 명령어 
+```bash
+NUM=문제번호 yarn lv:1
+# 또는
+NUM=문제번호 npm run lv:1
+```

@@ -1,0 +1,15 @@
+{
+  "name": "programmers",
+  "version": "1.0.0",
+  "description": "programmers coding test",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "lv:1": "node level1/${NUM}/${NUM}_solution.js",
+    "lv:2": "node level2/${NUM}/${NUM}_solution.js",
+    "lv:3": "node level3/${NUM}/${NUM}_solution.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
