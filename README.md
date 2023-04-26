@@ -11,6 +11,7 @@
 | 날짜   | 출처         | 유형        | 난이도  | 제목                                                                                       | 풀이                                                                         |
 | ------ | ------------ | ----------- | ------- | ------------------------------------------------------------------------------------------ | ---------------------------------------------------------------------------- |
 | 230426 | 프로그래머스 | 연습문제        | Level.1 | [추억 점수](https://school.programmers.co.kr/learn/courses/30/lessons/176963)                          | [✏️](https://github.com/yjleeinkr/Programmers/tree/main/level1/176963)  |
+| 230426 | 프로그래머스 | 연습문제        | Level.1 | [과일 장수](https://school.programmers.co.kr/learn/courses/30/lessons/135808)                          | [✏️](https://github.com/yjleeinkr/Programmers/tree/main/level1/135808)  |
 
 </div>
 
