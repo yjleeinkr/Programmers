@@ -15,6 +15,7 @@
 | 230427 | 프로그래머스 | 연습문제        | Level.1 | [둘만의 암호](https://school.programmers.co.kr/learn/courses/30/lessons/155652)                          | [✏️](https://github.com/yjleeinkr/Programmers/tree/main/level1/155652)  |
 | 230427 | 프로그래머스 | 연습문제        | Level.1 | [푸드 파이트 대회](https://school.programmers.co.kr/learn/courses/30/lessons/134240)                          | [✏️](https://github.com/yjleeinkr/Programmers/tree/main/level1/134240)  |
 | 230428 | 프로그래머스 | 연습문제        | Level.1 | [대충 만든 자판](https://school.programmers.co.kr/learn/courses/30/lessons/160586)                          | [✏️](https://github.com/yjleeinkr/Programmers/tree/main/level1/160586)  |
+| 230501 | 프로그래머스 | 연습문제        | Level.1 | [크기가 작은 부분 문자열](https://school.programmers.co.kr/learn/courses/30/lessons/147355)                          | [✏️](https://github.com/yjleeinkr/Programmers/tree/main/level1/147355)  |
 
 </div>
 
