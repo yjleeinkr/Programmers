@@ -18,6 +18,7 @@
 | 230501 | 프로그래머스 | 연습문제        | Level.1 | [크기가 작은 부분 문자열](https://school.programmers.co.kr/learn/courses/30/lessons/147355)                          | [✏️](https://github.com/yjleeinkr/Programmers/tree/main/level1/147355)  |
 | 230502 | 재귀함수 | 팩토리얼, 조합        | Level.1 | [팩토리얼과 조합]()                          | [✏️](https://github.com/yjleeinkr/Programmers/tree/main/level1/nCr)  |
 | 230502 | 프로그래머스 | 연습문제        | Level.1 | [이상한 문자 만들기](https://school.programmers.co.kr/learn/courses/30/lessons/12930)                          | [✏️](https://github.com/yjleeinkr/Programmers/tree/main/level1/12930)  |
+| 230504 | 프로그래머스 | 연습문제        | Level.1 | [시저 암호](https://school.programmers.co.kr/learn/courses/30/lessons/12926)                          | [✏️](https://github.com/yjleeinkr/Programmers/tree/main/level1/12926)  |
 
 </div>
 
