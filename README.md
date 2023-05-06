@@ -20,6 +20,7 @@
 | 230502 | 프로그래머스 | 연습문제        | Level.1 | [이상한 문자 만들기](https://school.programmers.co.kr/learn/courses/30/lessons/12930)                          | [✏️](https://github.com/yjleeinkr/Programmers/tree/main/level1/12930)  |
 | 230504 | 프로그래머스 | 연습문제        | Level.1 | [시저 암호](https://school.programmers.co.kr/learn/courses/30/lessons/12926)                          | [✏️](https://github.com/yjleeinkr/Programmers/tree/main/level1/12926)  |
 | 230504 | 프로그래머스 | 스택, 큐        | Level.1 | [같은 숫자는 싫어](https://school.programmers.co.kr/learn/courses/30/lessons/12906)                          | [✏️](https://github.com/yjleeinkr/Programmers/tree/main/level1/12906)  |
+| 230506 | 프로그래머스 | 연습문제        | Level.1 | [수박수박수박수박수박수?](https://school.programmers.co.kr/learn/courses/30/lessons/12922)                          | [✏️](https://github.com/yjleeinkr/Programmers/tree/main/level1/12922)  |
 
 </div>
 
