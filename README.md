@@ -25,6 +25,7 @@
 | 230507 | 프로그래머스 | 연습문제       | Level.1 | [가장 가까운 같은 글자](https://school.programmers.co.kr/learn/courses/30/lessons/142086)   | [✏️](https://github.com/yjleeinkr/Programmers/tree/main/level1/142086) |
 | 230526 | 프로그래머스 | 연습문제       | Level.1 | [없는 숫자 더하기](https://school.programmers.co.kr/learn/courses/30/lessons/86051)         | [✏️](https://github.com/yjleeinkr/Programmers/tree/main/level1/86051)  |
 | 230526 | 프로그래머스 | 연습문제       | Level.1 | [음양 더하기](https://school.programmers.co.kr/learn/courses/30/lessons/76501)              | [✏️](https://github.com/yjleeinkr/Programmers/tree/main/level1/76501)  |
+| 230529 | 프로그래머스 | 연습문제       | Level.1 | [3진법 뒤집기](https://school.programmers.co.kr/learn/courses/30/lessons/68935)             | [✏️](https://github.com/yjleeinkr/Programmers/tree/main/level1/68935)  |
 
 </div>
 
