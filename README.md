@@ -29,6 +29,7 @@
 | 230531 | 프로그래머스 | 연습문제       | Level.1 | [제일 작은 수 제거하기](https://school.programmers.co.kr/learn/courses/30/lessons/12935)    | [✏️](https://github.com/yjleeinkr/Programmers/tree/main/level1/12935)  |
 | 230531 | 프로그래머스 | 연습문제       | Level.1 | [서울에서 김서방 찾기](https://school.programmers.co.kr/learn/courses/30/lessons/12919)     | [✏️](https://github.com/yjleeinkr/Programmers/tree/main/level1/12919)  |
 | 230601 | 프로그래머스 | 정렬           | Level.1 | [K번째 수](https://school.programmers.co.kr/learn/courses/30/lessons/42748)                 | [✏️](https://github.com/yjleeinkr/Programmers/tree/main/level1/42748)  |
+| 230601 | 프로그래머스 | 정렬           | Level.1 | [문자열 다루기 기본](https://school.programmers.co.kr/learn/courses/30/lessons/12918)       | [✏️](https://github.com/yjleeinkr/Programmers/tree/main/level1/12918)  |
 
 </div>
 
