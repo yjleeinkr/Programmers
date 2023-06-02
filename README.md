@@ -31,6 +31,7 @@
 | 230601 | 프로그래머스 | 정렬           | Level.1 | [K번째 수](https://school.programmers.co.kr/learn/courses/30/lessons/42748)                    | [✏️](https://github.com/yjleeinkr/Programmers/tree/main/level1/42748)  |
 | 230601 | 프로그래머스 | 연습문제       | Level.1 | [문자열 다루기 기본](https://school.programmers.co.kr/learn/courses/30/lessons/12918)          | [✏️](https://github.com/yjleeinkr/Programmers/tree/main/level1/12918)  |
 | 230602 | 프로그래머스 | 연습문제       | Level.1 | [자연수 뒤집어 배열로 만들기](https://school.programmers.co.kr/learn/courses/30/lessons/12932) | [✏️](https://github.com/yjleeinkr/Programmers/tree/main/level1/12932)  |
+| 230602 | 프로그래머스 | 연습문제       | Level.1 | [핸드폰 번호 가리기](https://school.programmers.co.kr/learn/courses/30/lessons/12948)          | [✏️](https://github.com/yjleeinkr/Programmers/tree/main/level1/12948)  |
 
 </div>
 
