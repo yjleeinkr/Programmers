@@ -35,6 +35,7 @@
 | 230605 | 프로그래머스 | 연습문제       | Level.1 | [직사각형 별찍기](https://school.programmers.co.kr/learn/courses/30/lessons/12969)             | [✏️](https://github.com/yjleeinkr/Programmers/tree/main/level1/12969)  |
 | 230605 | 프로그래머스 | 연습문제       | Level.1 | [가운데 글자 가져오기](https://school.programmers.co.kr/learn/courses/30/lessons/12903)        | [✏️](https://github.com/yjleeinkr/Programmers/tree/main/level1/12903)  |
 | 230607 | 프로그래머스 | 연습문제       | Level.1 | [카드 뭉치](https://school.programmers.co.kr/learn/courses/30/lessons/159994)                  | [✏️](https://github.com/yjleeinkr/Programmers/tree/main/level1/159994) |
+| 230607 | 프로그래머스 | 연습문제       | Level.1 | [문자열 내 p와 y의 개수](https://school.programmers.co.kr/learn/courses/30/lessons/12916)      | [✏️](https://github.com/yjleeinkr/Programmers/tree/main/level1/12916)  |
 
 </div>
 
