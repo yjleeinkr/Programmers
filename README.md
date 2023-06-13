@@ -39,6 +39,7 @@
 | 230612 | 프로그래머스 | 연습문제       | Level.1 | [정수 내림차순으로 배치하기](https://school.programmers.co.kr/learn/courses/30/lessons/12933)  | [✏️](https://github.com/yjleeinkr/Programmers/tree/main/level1/12933)  |
 | 230612 | 프로그래머스 | 연습문제       | Level.1 | [콜라츠 추측](https://school.programmers.co.kr/learn/courses/30/lessons/12943)                 | [✏️](https://github.com/yjleeinkr/Programmers/tree/main/level1/12943)  |
 | 230613 | 프로그래머스 | 연습문제       | Level.1 | [정수 제곱근 판별](https://school.programmers.co.kr/learn/courses/30/lessons/12934)            | [✏️](https://github.com/yjleeinkr/Programmers/tree/main/level1/12934)  |
+| 230613 | 프로그래머스 | 연습문제       | Level.1 | [하샤드 수](https://school.programmers.co.kr/learn/courses/30/lessons/12947)                   | [✏️](https://github.com/yjleeinkr/Programmers/tree/main/level1/12947)  |
 
 </div>
 
