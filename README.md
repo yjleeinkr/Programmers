@@ -42,6 +42,7 @@
 | 230613 | 프로그래머스 | 연습문제       | Level.1 | [하샤드 수](https://school.programmers.co.kr/learn/courses/30/lessons/12947)                   | [✏️](https://github.com/yjleeinkr/Programmers/tree/main/level1/12947)  |
 | 230625 | 프로그래머스 | 연습문제       | Level.1 | [두 정수 사이의 합](https://school.programmers.co.kr/learn/courses/30/lessons/12912)           | [✏️](https://github.com/yjleeinkr/Programmers/tree/main/level1/12912)  |
 | 230625 | 프로그래머스 | 연습문제       | Level.1 | [나누어 떨어지는 숫자 배열](https://school.programmers.co.kr/learn/courses/30/lessons/12910)   | [✏️](https://github.com/yjleeinkr/Programmers/tree/main/level1/12910)  |
+| 230918 | 프로그래머스 | 연습문제       | Level.1 | [덧칠하기](https://school.programmers.co.kr/learn/courses/30/lessons/161989)                   | [✏️](https://github.com/yjleeinkr/Programmers/tree/main/level1/161989) |
 
 </div>
 
