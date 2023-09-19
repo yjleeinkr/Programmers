@@ -44,6 +44,7 @@
 | 230625 | 프로그래머스 | 연습문제       | Level.1 | [나누어 떨어지는 숫자 배열](https://school.programmers.co.kr/learn/courses/30/lessons/12910)   | [✏️](https://github.com/yjleeinkr/Programmers/tree/main/level1/12910)  |
 | 230918 | 프로그래머스 | 연습문제       | Level.1 | [덧칠하기](https://school.programmers.co.kr/learn/courses/30/lessons/161989)                   | [✏️](https://github.com/yjleeinkr/Programmers/tree/main/level1/161989) |
 | 230918 | 프로그래머스 | 연습문제       | Level.1 | [명예의 전당 (1)](https://school.programmers.co.kr/learn/courses/30/lessons/138477)            | [✏️](https://github.com/yjleeinkr/Programmers/tree/main/level1/138477) |
+| 230919 | 프로그래머스 | 연습문제       | Level.1 | [달리기 경주](https://school.programmers.co.kr/learn/courses/30/lessons/178871)                | [✏️](https://github.com/yjleeinkr/Programmers/tree/main/level1/178871) |
 
 </div>
 
