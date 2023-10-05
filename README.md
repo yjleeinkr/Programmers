@@ -47,6 +47,7 @@
 | 230919 | 프로그래머스 | 연습문제                      | Level.1 | [달리기 경주](https://school.programmers.co.kr/learn/courses/30/lessons/178871)                 | [✏️](https://github.com/yjleeinkr/Programmers/tree/main/level1/178871) |
 | 230920 | 프로그래머스 | 2021 카카오 채용연계형 인턴십 | Level.1 | [숫자 문자열과 영단어](https://school.programmers.co.kr/learn/courses/30/lessons/81301)         | [✏️](https://github.com/yjleeinkr/Programmers/tree/main/level1/81301)  |
 | 231005 | 프로그래머스 | 연습문제                      | Level.1 | [문자열 내림차순으로 배치하기](https://school.programmers.co.kr/learn/courses/30/lessons/12917) | [✏️](https://github.com/yjleeinkr/Programmers/tree/main/level1/12917)  |
+| 231005 | 프로그래머스 | 2021 KAKAO BLIND RECRUITMENT  | Level.1 | [신규 아이디 추천](https://school.programmers.co.kr/learn/courses/30/lessons/72410)             | [✏️](https://github.com/yjleeinkr/Programmers/tree/main/level1/72410)  |
 
 </div>
 
