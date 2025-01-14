@@ -51,6 +51,7 @@
 | 231011 | 프로그래머스 | 연습문제                      | Level.1 | [문자열 내 마음대로 정렬하기](https://school.programmers.co.kr/learn/courses/30/lessons/12915)  | [✏️](https://github.com/yjleeinkr/Programmers/tree/main/level1/12915)  |
 | 240110 | 프로그래머스 | 완전탐색                      | Level.1 | [모의고사](https://school.programmers.co.kr/learn/courses/30/lessons/42840)                     | [✏️](https://github.com/yjleeinkr/Programmers/tree/main/level1/42840)  |
 | 240110 | 프로그래머스 | 2019 KAKAO BLIND RECRUITMENT  | Level.1 | [실패율](https://school.programmers.co.kr/learn/courses/30/lessons/42889)                       | [✏️](https://github.com/yjleeinkr/Programmers/tree/main/level1/42889)  |
+| 240114 | 프로그래머스 | Summer/Winter Coding(~2018)   | Level.2 | [방문 길이](https://school.programmers.co.kr/learn/courses/30/lessons/49994)                    | [✏️](https://github.com/yjleeinkr/Programmers/tree/main/level2/49994)  |
 
 </div>
 
