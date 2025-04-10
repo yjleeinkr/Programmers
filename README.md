@@ -53,6 +53,7 @@
 | 240110 | 프로그래머스 | 2019 KAKAO BLIND RECRUITMENT  | Level.1 | [실패율](https://school.programmers.co.kr/learn/courses/30/lessons/42889)                            | [✏️](https://github.com/yjleeinkr/Programmers/tree/main/level1/42889)  |
 | 240114 | 프로그래머스 | Summer/Winter Coding(~2018)   | Level.2 | [방문 길이](https://school.programmers.co.kr/learn/courses/30/lessons/49994)                         | [✏️](https://github.com/yjleeinkr/Programmers/tree/main/level2/49994)  |
 | 240331 | 프로그래머스 | PCCP 기출문제                 | Level.1 | [[PCCP 기출문제] 1번 / 붕대 감기 ](https://school.programmers.co.kr/learn/courses/30/lessons/250137) | [✏️](https://github.com/yjleeinkr/Programmers/tree/main/level1/250137) |
+| 240401 | 프로그래머스 | 연습문제                      | Level.1 | [바탕화면 정리](https://school.programmers.co.kr/learn/courses/30/lessons/161990)                    | [✏️](https://github.com/yjleeinkr/Programmers/tree/main/level1/161990) |
 
 </div>
 
