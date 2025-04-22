@@ -54,7 +54,8 @@
 | 240114 | 프로그래머스 | Summer/Winter Coding(~2018)   | Level.2 | [방문 길이](https://school.programmers.co.kr/learn/courses/30/lessons/49994)                         | [✏️](https://github.com/yjleeinkr/Programmers/tree/main/level2/49994)  |
 | 240331 | 프로그래머스 | PCCP 기출문제                 | Level.1 | [[PCCP 기출문제] 1번 / 붕대 감기 ](https://school.programmers.co.kr/learn/courses/30/lessons/250137) | [✏️](https://github.com/yjleeinkr/Programmers/tree/main/level1/250137) |
 | 240401 | 프로그래머스 | 연습문제                      | Level.1 | [바탕화면 정리](https://school.programmers.co.kr/learn/courses/30/lessons/161990)                    | [✏️](https://github.com/yjleeinkr/Programmers/tree/main/level1/161990) |
-| 240419 | 프로그래머스 | 월간 코드 챌린지 시즌2        | Level.2 | [괄호 회전하기](https://school.programmers.co.kr/learn/courses/30/lessons/76502)                     | [✏️](https://github.com/yjleeinkr/Programmers/tree/main/level2/76502)  |
+| 240419 | 프로그래머스 | 월간 코드 챌린지 시즌2        | Level.2 | [괄호 회전하기](https://school.programmers.co.kr/learn/courses/30/lessons/76502)                     | [✏️](https://github.com/yjleeinkr/Programmers/tree/main/level2/12973)  |
+| 240421 | 프로그래머스 | 2017 팁스타운                 | Level.2 | [짝지어 제거하기](https://school.programmers.co.kr/learn/courses/30/lessons/12973)                   | [✏️](https://github.com/yjleeinkr/Programmers/tree/main/level2/12973)  |
 
 </div>
 
