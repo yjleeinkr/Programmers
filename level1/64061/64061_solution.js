@@ -42,6 +42,55 @@ console.log(
     ],
     [1, 5, 3, 5, 1, 2, 1, 4]
   )
-);
+); // 4
 
-4;
+/** 다른 사람들의 풀이 */
+function solution2(board, moves) {
+  /** 행과 열을 바꿔줌 */
+  const transpose = (matrix) => {
+    return matrix.reduce(
+      (result, row) => row.map((_, i) => [...(result[i] || []), row[i]]),
+      []
+    );
+  };
+  console.log(transpose(board));
+  /**
+   * [
+  [ 0, 0, 0, 4, 3 ],
+  [ 0, 0, 2, 2, 5 ],
+  [ 0, 1, 5, 4, 1 ],
+  [ 0, 0, 0, 4, 3 ],
+  [ 0, 3, 1, 2, 1 ]
+]
+   */
+  const stacks = transpose(board).map((row) =>
+    row.reverse().filter((toy) => toy !== 0)
+  ); // [ [ 3, 4 ], [ 5, 2, 2 ], [ 1, 4, 5, 1 ], [ 3, 4 ], [ 1, 2, 1, 3 ] ]
+  const basket = [];
+  let result = 0;
+
+  for (const move of moves) {
+    const pop = stacks[move - 1].pop();
+    if (!pop) continue;
+    if (pop === basket[basket.length - 1]) {
+      basket.pop();
+      result += 2;
+      continue;
+    }
+    basket.push(pop);
+  }
+  return result;
+}
+
+console.log(
+  solution2(
+    [
+      [0, 0, 0, 0, 0],
+      [0, 0, 1, 0, 3],
+      [0, 2, 5, 0, 1],
+      [4, 2, 4, 4, 2],
+      [3, 5, 1, 3, 1],
+    ],
+    [1, 5, 3, 5, 1, 2, 1, 4]
+  )
+);
