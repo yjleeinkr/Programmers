@@ -58,6 +58,7 @@
 | 240421 | 프로그래머스 | 2017 팁스타운                  | Level.2 | [짝지어 제거하기](https://school.programmers.co.kr/learn/courses/30/lessons/12973)                   | [✏️](https://github.com/yjleeinkr/Programmers/tree/main/level2/12973)  |
 | 240423 | 프로그래머스 | 스택/큐                        | Level.2 | [주식가격](https://school.programmers.co.kr/learn/courses/30/lessons/42584)                          | [✏️](https://github.com/yjleeinkr/Programmers/tree/main/level2/42584)  |
 | 240424 | 프로그래머스 | 2019 카카오 개발자 겨울 인턴십 | Level.1 | [크레인 인형뽑기 게임](https://school.programmers.co.kr/learn/courses/30/lessons/64061)              | [✏️](https://github.com/yjleeinkr/Programmers/tree/main/level2/64061)  |
+| 240528 | 프로그래머스 | 2021 카카오 채용연계형 인턴십  | Level.3 | [표 편집](https://school.programmers.co.kr/learn/courses/30/lessons/81303)                           | [✏️](https://github.com/yjleeinkr/Programmers/tree/main/level2/81303)  |
 
 </div>
 
