@@ -28,6 +28,54 @@ function solution2(cards1, cards2, goal) {
   return "Yes";
 }
 
+class Queue {
+  items = [];
+  front = 0;
+  rear = 0;
+
+  constructor(items) {
+    this.items = items;
+    this.rear = items.length;
+  }
+
+  push(data) {
+    this.items.push(data);
+    this.rear++;
+  }
+
+  pop() {
+    return this.items[this.front++];
+  }
+
+  first() {
+    return this.items[this.front];
+  }
+
+  isEmpty() {
+    return this.front === this.rear;
+  }
+}
+
+// 자료구조 큐를 활용한 풀이
+function solution3(cards1, cards2, goal) {
+  cards1 = new Queue(cards1);
+  cards2 = new Queue(cards2);
+  goal = new Queue(goal);
+
+  while (!goal.isEmpty()) {
+    if (!cards1.isEmpty() && cards1.first() === goal.first()) {
+      cards1.pop();
+      goal.pop();
+    } else if (!cards2.isEmpty() && cards2.first() === goal.first()) {
+      cards2.pop();
+      goal.pop();
+    } else {
+      break;
+    }
+  }
+  return goal.isEmpty() ? "Yes" : "No";
+}
+
 const result = solution(
   ["i", "drink", "water"],
   ["want", "to"],
