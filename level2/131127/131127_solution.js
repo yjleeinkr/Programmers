@@ -86,7 +86,46 @@ function solution3(want, number, discount) {
   return count;
 }
 
-const result = solution(
+function solutionWithSlidingWindow(want, number, discount) {
+  const wantMap = {};
+  want.forEach((item, i) => (wantMap[item] = number[i]));
+
+  const window = {};
+  let answer = 0;
+
+  // 초기 10일 세팅
+  for (let i = 0; i < 10; i++) {
+    window[discount[i]] = (window[discount[i]] || 0) + 1;
+  }
+
+  const isValid = () => {
+    for (const item in wantMap) {
+      if ((window[item] || 0) !== wantMap[item]) return false;
+    }
+    return true;
+  };
+
+  if (isValid()) answer++;
+
+  // 슬라이딩 윈도우 이동
+  for (let i = 10; i < discount.length; i++) {
+    const add = discount[i];
+    const remove = discount[i - 10];
+
+    // 들어오는 상품
+    window[add] = (window[add] || 0) + 1;
+
+    // 나가는 상품
+    window[remove]--;
+    if (window[remove] === 0) delete window[remove];
+
+    if (isValid()) answer++;
+  }
+
+  return answer;
+}
+
+const result = solutionWithSlidingWindow(
   ["banana", "apple", "rice", "pork", "pot"],
   [3, 2, 2, 2, 1],
   [
@@ -106,7 +145,7 @@ const result = solution(
     "banana",
   ]
 );
-const result2 = solution(
+const result2 = solutionWithSlidingWindow(
   ["apple"],
   [10],
   [
