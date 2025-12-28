@@ -64,6 +64,7 @@
 | 251202 | 프로그래머스 | 스택/큐                        | Level.2 | [다리를 지나는 트럭](https://school.programmers.co.kr/learn/courses/30/lessons/42583)                | [✏️](https://github.com/yjleeinkr/Programmers/tree/main/level2/42583)  |
 | 251214 | 프로그래머스 | 해시                           | Level.1 | [완주하지 못한 선수](https://school.programmers.co.kr/learn/courses/30/lessons/42576)                | [✏️](https://github.com/yjleeinkr/Programmers/tree/main/level2/42576)  |
 | 251216 | 프로그래머스 | 연습문제                       | Level.2 | [할인 행사](https://school.programmers.co.kr/learn/courses/30/lessons/131127)                        | [✏️](https://github.com/yjleeinkr/Programmers/tree/main/level2/131127) |
+| 251228 | 프로그래머스 | 2019 KAKAO BLIND RECRUITMENT   | Level.2 | [오픈 채팅방](https://school.programmers.co.kr/learn/courses/30/lessons/42888)                       | [✏️](https://github.com/yjleeinkr/Programmers/tree/main/level2/42888)  |
 
 </div>
 
